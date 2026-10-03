@@ -83,4 +83,4 @@ Every explanation produced by the app strictly adheres to the 4-part structure d
 
 ## 📄 License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](LICENSE)
